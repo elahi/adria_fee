@@ -1,5 +1,5 @@
 # ignore folder - large files
-ignoreFolder/
+/ignore_folder/
 
 # History files
 .Rhistory
